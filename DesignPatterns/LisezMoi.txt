@@ -1,0 +1,3 @@
+TP Design Patterns
+Ajouter au build path du projet :
+- le jar SWT
